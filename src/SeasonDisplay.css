@@ -11,10 +11,10 @@
 }
 
 .season-display.winter i {
-  color: blue;
+  color: #8ec5fc;
 }
 .season-display.summer i {
-  color: red;
+  color: orange;
 }
 .season-display {
   display: flex;
