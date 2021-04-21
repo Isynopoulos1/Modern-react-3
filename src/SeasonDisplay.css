@@ -14,7 +14,7 @@
   color: #8ec5fc;
 }
 .season-display.summer i {
-  color: orange;
+  color: #fffb7d;
 }
 .season-display {
   display: flex;
@@ -28,5 +28,5 @@
 }
 
 .summer {
-  background-color: #fc8b3b;
+  background-color: #f7ce68;
 }
